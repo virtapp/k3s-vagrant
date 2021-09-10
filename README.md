@@ -128,7 +128,3 @@ $ kubectl delete deployment.apps/mynginx
 deployment.apps "mynginx" deleted
 ```
 
-Ref:
-- https://rancher.com/docs/k3s/latest/en/installation/
-- http://devnetstack.com/kubernetes-the-easy-way-with-k3s/
-- https://github.com/alexellis/k3sup
